@@ -1,0 +1,1 @@
+Butter Knife library is used for view injection in Android. It uses annotation processing for generating boilerplate code.
